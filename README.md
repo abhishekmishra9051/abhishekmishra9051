@@ -1,4 +1,3 @@
-Sure, here's a revised version of your README.md file with skills represented as logos:
 
 ```markdown
 # Abhishek Mishra
