@@ -1,11 +1,9 @@
-
-```markdown
 # Abhishek Mishra
 
 Contact me: 
 - 📞 +91 9051282419 
 - 📧 abhishekmishra9051@gmail.com 
-- 💼 [LinkedIn](linkedin.com/in/abhishekmishra9051)
+- 💼 [LinkedIn](https://linkedin.com/in/abhishekmishra9051)
 
 ## Experience
 
@@ -81,4 +79,3 @@ Contact me:
 
 ## Achievements
 - Applied data structures and algorithms skills to solve 400+ complex problems on various online platforms, including LeetCode, GeeksforGeeks, and Codestudio.
-```
