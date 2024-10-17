@@ -7,7 +7,7 @@ Contact me:
 
 ## Experience
 
-### MCT Cards, Software Developer (Team Member) | Manipal, India 
+### Manipal Payment and Identity Solutions, Software Developer (Sr. Team Member) | Manipal, India 
 (Jan 2024 - Present)
 - Designed and implemented a pipeline that enabled 500+ mobile NVRs to auto-register with the DSS server, reducing manual intervention by 80% and saving 10 hours per week for the BMTC project.
 - Applied Test-Driven Development (TDD) practices to ensure high-quality code and reduce post-release defects by 20%.
@@ -24,7 +24,7 @@ Contact me:
 - Utilized Git, Jira, and Bitbucket for version control, Agile project management, and code collaboration. Streamlined software development efficiency by implementing custom workflows, pull requests, and CI/CD integration.
 
 ### INADEV, Backend Engineer (Intern + GTE) | Remote (India) 
-(Feb 2022 - Jan 2023)
+(Jun 2022 - Jan 2023)
 - Successfully developed and implemented various Software Modules and Software Solutions to solve complex project-related needs using Core Java and Spring Boot.
 - Proven ability to coordinate on technical requirements from clients and manage functionalities of various modules.
 - Experience working on an Agile Development team. Have a good understanding of Inventory, Supply Chain, and Order Management Modules.
